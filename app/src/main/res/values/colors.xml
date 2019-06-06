@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="activitybackground">#ECCD9E</color>
     <color name="whitecolor">#FFFFFF</color>
+    <color name="buttonback">#AFAAEC</color>
 </resources>
